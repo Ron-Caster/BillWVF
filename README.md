@@ -1,2 +1,2 @@
 # BillWVF
-Bill Recognition system using Python for WinVinaya Foundation
+Bill Recognition system using Python
